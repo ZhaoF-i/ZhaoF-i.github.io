@@ -1,3 +1,4 @@
+---
 permalink: /
 title: "Home Page"
 author_profile: true
