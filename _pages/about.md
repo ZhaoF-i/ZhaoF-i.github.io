@@ -1,4 +1,10 @@
-
+permalink: /
+title: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 About me
 ======
 This is Pengjie Shen’s homepage. I am a **Ph.D. student** in **Computer Science and Technology** at **Inner Mongolia University**, focusing on **speech signal processing**. My research spans several closely related areas:
