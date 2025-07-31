@@ -10,6 +10,11 @@ About me
 ======
 This is Zhao Fei’s homepage. I am a **Ph.D. student** in **Computer Science and Technology** at **Inner Mongolia University**, focusing on **speech signal processing**. My research spans several closely related areas:
 
+- **Acoustic Echo Cancellation (AEC)**
+- **Active Noise Control (ANX)**
+- **Speech Enhancement (SE)**
+- **Multi‑Channel Microphone Array Processing**
+
 
 Publications
 ======
