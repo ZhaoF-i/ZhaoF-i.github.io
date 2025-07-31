@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Pengjie Shen"
+title                    : "Fei Zhao"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://shenpengjie.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shenpengjie/shenpengjie.github.io"
+repository               : "ZhaoF-i/ZhaoF-i.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,13 +23,13 @@ repository               : "shenpengjie/shenpengjie.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Pengjie Shen"
+  name             : "Fei Zhao"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student"
   location         : "Inner Mongolia Autonomous Region"
   employer         : "Inner Mongolia University"
   uri              : # URL
-  email            : "shenpengjie@mail.imu.edu.cn" 
+  email            : "zhaofei@mail.imu.edu.cn" 
 
   # Academic websites
   academia         : # URL
