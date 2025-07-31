@@ -30,7 +30,7 @@ In _Proc. INTERSPEECH 2025_ **(to appear, accepted)**
 
 - **Fei Zhao**, Xueliang Zhang.
 *"Attention-Enhanced Short-Time Wiener Solution for Acoustic Echo Cancellation"*.
-In _Proc. IEEE Int. Conf. Acoustics, Speech and Signal Processing (ICASSP 2025)
+In Proc. IEEE Int. Conf. Acoustics, Speech and Signal Processing (ICASSP 2025)
 [DOI](https://ieeexplore.ieee.org/abstract/document/10889065/) .
 
 - **Fei Zhao**, Jinjiang Liu, Xueliang Zhang.
@@ -40,7 +40,7 @@ In Proc. INTERSPEECH 2024
 
 - **Fei Zhao**, Chenggang Zhang, Shulin He, Jinjiang Liu, Xueliang Zhang.
 *"Deep echo path modeling for acoustic echo cancellation"*.
-In _Proc. INTERSPEECH 2024
+In Proc. INTERSPEECH 2024
 [DOI](https://www.isca-archive.org/interspeech_2024/zhao24_interspeech.pdf) .
 
 <!-- 
