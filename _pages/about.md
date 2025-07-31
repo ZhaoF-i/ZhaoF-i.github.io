@@ -21,7 +21,7 @@ Publications
 - **Fei Zhao**, Shulin He, Xueliang Zhang.
 *Room Impulse Response as a Prompt for Acoustic Echo Cancellation*.
 In _Proc. INTERSPEECH 2025_ **(to appear, accepted)**
-[DOI]([https://arxiv.org/abs/2505.22051]) ·
+[DOI](https://arxiv.org/abs/2505.22051) ·
 
 - Jiahui Pan, **Pengjie Shen**, Hui Zhang, Xueliang Zhang.
 *Efficient multi-channel speech enhancement with spherical harmonics injection for directional encoding*.
