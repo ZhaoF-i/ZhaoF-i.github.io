@@ -8,3 +8,17 @@
 @media(max-width:360px){nav{gap:10px;font-size:11px}.interests{grid-template-columns:1fr}.name-cn{margin-left:12px}}
 @media(prefers-reduced-motion:reduce){:root{scroll-behavior:auto}}
 @media print{body{background:white}.header,.social,.contact,.footer>a{display:none}.wrap{width:100%;max-width:none}.hero{padding:20px 0;grid-template-columns:1fr 150px}.portrait img{width:150px;height:180px}.section{padding:20px 0}.paper{break-inside:avoid}.year-group{grid-template-columns:70px 1fr}.lead{font-size:26px}}
+
+/* Academic experience */
+.experience{display:grid;grid-template-columns:1fr 1.4fr;gap:70px}
+.timeline{list-style:none;margin:0;padding:0 0 0 23px;border-left:1px solid var(--line)}
+.timeline li{position:relative;padding:0 0 32px}
+.timeline li:last-child{padding-bottom:0}
+.timeline li:before{content:"";position:absolute;left:-28px;top:9px;width:9px;height:9px;border-radius:50%;background:var(--accent);box-shadow:0 0 0 5px var(--paper)}
+.timeline h3{font-size:19px;line-height:1.4;font-weight:600;margin:8px 0}
+.timeline p{font-size:14px;color:var(--muted);margin:4px 0}
+.timeline .experience-date{font-size:12px;color:var(--accent);display:flex;align-items:center;flex-wrap:wrap;gap:5px}
+.experience-date .badge{margin-left:8px}
+.timeline .experience-role{color:var(--ink)}
+@media(max-width:1000px){.experience{gap:35px;grid-template-columns:1fr 1.5fr}}
+@media(max-width:700px){.experience{grid-template-columns:1fr;gap:16px}.header{flex-wrap:wrap;gap:10px}nav{flex-wrap:wrap;gap:12px}.timeline h3{font-size:18px}}
